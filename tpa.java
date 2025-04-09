@@ -16,14 +16,14 @@ public class tpa {
         // TODO code application logic here
         // Declaração de variáveis primitivas
 byte idade = 15; // Armazena números pequenos (-128 a 127)
-short ano = 2025; // Armazena valores um pouco maiores 4 a 5 casas decimais(-32.760 a 32.767) 
+short ano = 2009; // Armazena valores um pouco maiores 4 a 5 casas decimais(-32.760 a 32.767) 
 int populacaoCidade = 50000; // Tipo mais comum para números (inteiros)
 long populacaoMundial = 8000000000L; // Necessário 'L' para valores longos
 
 float altura = 1.80f; // Necessário 'f' no final para indicar float
 double peso = 64.5; // Mais preciso que float
 
-char inicial = 'M'; // Armazena um único caractere, sempre entre aspas exemplo 'E'
+char inicial = 'D'; // Armazena um único caractere, sempre entre aspas exemplo 'E'
 boolean ativo =true; // Armazena verdadeiro(true) ou falso(false)
 
 // Exibição dos valores
